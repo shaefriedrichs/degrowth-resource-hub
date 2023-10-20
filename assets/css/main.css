@@ -292,7 +292,7 @@ h3.major,
 h4.major,
 h5.major,
 h6.major {
-  border-bottom: solid 1px #ffffff;
+  border-bottom: solid 1px #ffdd00;
   width: -moz-max-content;
   width: -webkit-max-content;
   width: -ms-max-content;
@@ -305,12 +305,14 @@ h1 {
   font-size: 2.25rem;
   line-height: 1.3;
   letter-spacing: 0.5rem;
+  color: #ffdd00;
 }
 
 h2 {
   font-size: 1.5rem;
   line-height: 1.4;
   letter-spacing: 0.5rem;
+  color: #ffdd00;
 }
 
 h3 {
@@ -1416,10 +1418,12 @@ body.is-preload #bg:before {
   line-height: 5.5rem;
   border: solid 1px #ffffff;
   border-radius: 100%;
+  color: #ffdd00;
 }
 
 #header .logo .icon:before {
   font-size: 2rem;
+  color: #ffdd00;
 }
 
 #header .content {
@@ -1489,10 +1493,14 @@ body.is-preload #bg:before {
   text-transform: uppercase;
   letter-spacing: 0.2rem;
   font-size: 0.8rem;
+  font-weight: bold;
   border-bottom: 0;
+  color: #ffdd00;
 }
 
-
+#header nav ul li #what-is a {
+  color: #fff;
+}
 
 #header nav ul li a:hover {
   background-color: #ffdd00;
@@ -1569,10 +1577,12 @@ body.is-preload #header .content .inner {
     width: 4.75rem;
     height: 4.75rem;
     line-height: 4.75rem;
+    color: #ffdd00;
   }
 
   #header .logo .icon:before {
     font-size: 1.75rem;
+    color: #ffdd00;
   }
 
   #header .content .inner {
