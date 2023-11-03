@@ -1797,6 +1797,10 @@ body.is-preload #footer {
   opacity: 0;
 }
 
-p .intro-starter {
-  text-align: center;
+hr {
+  height: 1px;
+  border: none;
+  background-color: #ffdd00;
 }
+
+
