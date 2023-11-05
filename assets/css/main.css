@@ -388,7 +388,7 @@ pre code {
 hr {
   border: 0;
   border-bottom: solid 1px #ffffff;
-  margin: 2.75rem 0;
+  margin-bottom: 3rem;
 }
 
 .align-left {
@@ -1824,7 +1824,6 @@ hr {
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 20px;
 }
 
 .image-container {
@@ -1837,7 +1836,7 @@ hr {
 }
 
 .image-caption {
-  font-size: 12px;
+  font-size: 0.9rem;
   text-align: center;
   margin: 0;
   background-color: #ffdd00;
@@ -1846,14 +1845,14 @@ hr {
 
 .image-caption b {
   color: #1b1f22;
-  font-size: 12px;
+  font-size: 1rem;
 }
 
 #what-is-img {
   display: block;
   margin: 10px auto;
-  width: 75%;
-  height: 75%;
+  width: 95%;
+  height: 95%;
   border: 4px solid #ffdd00;
   border-radius: 10px;
 }
