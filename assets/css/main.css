@@ -1774,10 +1774,10 @@ body.is-preload #header .content .inner {
 #footer .copyright {
   letter-spacing: 0.2rem;
   font-size: 0.6rem;
-  opacity: 0.85;
+  opacity: 1;
   margin-bottom: 0;
   text-transform: uppercase;
-  background-color: #1b1f2259;
+  background-color: #1b1f225a;
 }
 
 body.is-article-visible #footer {
