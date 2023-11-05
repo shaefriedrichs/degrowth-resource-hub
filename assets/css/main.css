@@ -249,7 +249,6 @@ a:hover {
 
 strong,
 b {
-  color: #ffffff;
   font-weight: 600;
 }
 
@@ -1859,6 +1858,14 @@ hr {
   border-radius: 10px;
 }
 
-#podcast-container {
-  
+div.scroll-container {
+  background-color: #ffdd00;
+  overflow: auto;
+  white-space: nowrap;
+  padding: 10px;
+  margin-top: 10px;
+}
+
+div.scroll-container img {
+  padding: 5px;
 }
